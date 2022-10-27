@@ -27,18 +27,18 @@ I'm a from the east coast. I love dogs. And I'm a ninja with React.
   <line x1="17" y1="7" x2="17" y2="7.01" />
   <line x1="17" y1="11" x2="17" y2="11.01" />
   <line x1="17" y1="15" x2="17" y2="15.01" />
-</svg></a> <a href:"http://www.suzannemozes.com/resume" ><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-files" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2f3760" fill="none" stroke-linecap="round" stroke-linejoin="round" alt="resume download">
+</svg></a> <a href="http://www.suzannemozes.com/resume"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-files" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2f3760" fill="none" stroke-linecap="round" stroke-linejoin="round" alt="resume download">
   <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
   <path d="M15 3v4a1 1 0 0 0 1 1h4" />
   <path d="M18 17h-7a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h4l5 5v7a2 2 0 0 1 -2 2z" />
   <path d="M16 17v2a2 2 0 0 1 -2 2h-7a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h2" />
-</svg></a>
+</svg></a></p>
 
 <!--<a href="https://www.nytimes.com" target="_blank" rel="noreferrer">Phone <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-phone" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2f3760" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
   <path d="M5 4h4l2 5l-2.5 1.5a11 11 0 0 0 5 5l1.5 -2.5l5 2v4a2 2 0 0 1 -2 2a16 16 0 0 1 -15 -15a2 2 0 0 1 2 -2" />
 </svg> </a> --> 
- </p>
+ 
 
 <h4 align="center">suzanne.mozes@gmail.com<h4>
 <br/>
